@@ -6,13 +6,15 @@ https://www.virustotal.com/gui/file/f435fb0f789cb6bde6e289984bb2be7d4dba8101c53e
 Yes it's .NET. Sue me. .NET 2.0 or higher required
 
 Twitter @_Ozz
+
 Github 4czr
+
 Email ozz@riseup.net
 
 # Version
 Jackbit is currently in version **0.1**
 
-#What's To Come?
+# What's To Come?
 - May add persistence
 - May try and use something other than REGEX to try and reduce the detection
 - May add (very easily) multi-coin support
